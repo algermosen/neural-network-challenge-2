@@ -29,5 +29,3 @@
 7. **Optimization and Hyperparameter Tuning**:
    - Adjusting the learning rate and using learning rate scheduling to help the model converge more effectively.
    - Experimenting with different batch sizes and epochs to find the optimal training configuration.
-
-By completing this exercise, you will gain practical experience in designing, training, and evaluating neural network models for both multi-class and binary classification tasks.
